@@ -43,11 +43,15 @@ This project explores several questions related to exoplanet science:
 
 ### Exoplanet Discoveries by Year
 
+![Exoplanet Discoveries by Year](figures/discoveries_by_year.png)
+
 This visualization shows the rapid growth of exoplanet discoveries over the past three decades. Major increases correspond to large survey programs and mission data releases, particularly from the Kepler mission.
 
 ---
 
 ### Discovery Methods
+
+![Discovery Methods](figures/discovery_methods.png)
 
 Transit photometry is by far the dominant discovery method, accounting for the majority of confirmed exoplanets in the dataset. Radial velocity remains the second most productive technique.
 
@@ -55,11 +59,15 @@ Transit photometry is by far the dominant discovery method, accounting for the m
 
 ### Planet Radius Distribution
 
+![Planet Radius Distribution](figures/planet_radius_distribution.png)
+
 The distribution reveals distinct populations of planets, including Earth-sized planets, super-Earths, mini-Neptunes, and gas giants. A small number of extreme outliers are also present.
 
 ---
 
 ### Planet Mass vs Radius
+
+![Planet Mass vs Radius](figures/mass_vs_radius.png)
 
 This log-log visualization illustrates the relationship between planetary mass and radius across multiple classes of exoplanets. Distinct populations emerge, including rocky planets, Neptune-like planets, and gas giants.
 
@@ -67,11 +75,15 @@ This log-log visualization illustrates the relationship between planetary mass a
 
 ### Planet Temperature vs Host Star Temperature
 
+![Planet Temperature vs Host Star Temperature](figures/planet_vs_stellar_temperature.png)
+
 Planetary equilibrium temperature generally increases with host star temperature, although substantial scatter exists because orbital distance also plays a major role.
 
 ---
 
 ### Planet Temperature vs Orbital Distance
+
+![Planet Temperature vs Orbital Distance](figures/temperature_vs_distance.png)
 
 A clear inverse relationship exists between orbital distance and planetary temperature. Planets located closer to their host stars receive more stellar radiation and are significantly hotter than planets in distant orbits.
 
